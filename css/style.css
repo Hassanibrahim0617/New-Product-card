@@ -15,7 +15,7 @@ h1{
     font-family:  "Ubuntu", sans-serif;
 }
 body{
-    background-image: url(/assets/background.png);
+    background-image: url(assets/background.png);
 }
 div{
     display: grid;
